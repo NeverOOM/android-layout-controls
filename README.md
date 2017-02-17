@@ -1,8 +1,5 @@
 #ViewPagerIndicator+viewpager的简单使用，不需要导入Library包
-    <div class="blog-body" id="blogBody">
-                                    <val data-name="blog_content_type" data-value="richtext"></val>
-                    <div class='BlogContent'>
-                        <p>ViewPagerIndicator作为一款分页指标小部件兼容ViewPager，封装上做得非常不错，目前已为众多知名应用所使用。</p> 
+ <p>ViewPagerIndicator作为一款分页指标小部件兼容ViewPager，封装上做得非常不错，目前已为众多知名应用所使用。</p> 
 <p>ViewPagerIndicator+viewpager实现如下效果：（注：不需要导入或引入啥包就可实现）</p> 
 <p>&nbsp; &nbsp; &nbsp;&nbsp;<img alt="" height="233" src="https://static.oschina.net/uploads/space/2016/1207/160527_AcpJ_2945455.gif" width="317"></p> 
 <p>六个类就可实现上图效果</p> 
@@ -100,5 +97,4 @@
 
     public void initView() {
     }
-}</code></pre> 
-<p>工具类代码代码太多未给出，直接下载即可。</p> 
+}</code></pre>     
